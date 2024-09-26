@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta
+http-equiv="X-UA-Compatible"
+content="IE=edge">
+
+<meta name="viewport" content="width=devi
+ce-width, initial-scale=1 . 0">
+    <title>My Resume</title>
+</head>
+<body>
+    <br>
+    <!-- header -->
+     <heather>
+        <table>
+            <tr>
+                <td>
+
+<img src="https://scontent.fmnl2-2.fna.fbcdn.net/v/t39.30808-6/459002891_122170455386056531_5322154854231945588_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFMgturcCNL_WcQ8mUJ8G6Yjze5S288ASPN7lLbzwBIJOKlH9uhuOUijPuFFL4pgZymH2152zZHj5n1ZnskoRF&_nc_ohc=k9eMajj9R4QQ7kNvGdXSiX&_nc_ht=scontent.fmnl2-2.fna&oh=00_AYBOLv1KsHvyfyHV3-SoMafu7h1KoFtV6Jpz44r46Hgr8A&oe=66FA223A" alt="" width="127px">
+                </td>
+                <td>
+                    <h1>BATI
+ANGELO</h1>
+                </td>
+            </tr>
+        </table>
+     </heather>
+     <br>
+     <!-- personal details -->
+      <section>
+        <br>
+        <h2>Personal Details</h2>
+        <hr>
+        <table border="1px">
+            <tr>
+                <td><strong>Name</strong>
+</td>
+                <td>
+                    <p>Bati 
+Angelo</p>
+                </td>
+            </tr>
+            <tr>
+                <td><strong>Email      
+Address</strong></td>
+               <td>
+
+<p>angelongapala80@gmail.com</p>
+               </td>
+            </tr>
+            <tr>
+                <td><strong>Phone
+Number</strong></td>
+                <td>
+                    <p>+63936-226-
+9768</p>
+                </td>
+            </tr>
+            <tr>
+                <td><strong>Sex</strong>
+</td>
+                <td>
+                    <p>Male</p>
+                </td>
+            </tr>
+        </table>
+    </section>
+    <br>
+    <!-- summary -->
+     <section>
+       <h2>Summary</h2>
+       <hr>
+       <p>I am a grade 11 student from
+Unida Christian College studying in the
+strand TVL-ICT-Programming, I have no
+experience in programming but this is one
+of the strand i want to take.</p>
+     </section>
+     <br>
+     <!-- work experience -->
+      <section>
+            <h2>Work Experience</h2>
+            <hr>
+            <table border="1px">
+                <tr>
+                    <td>
+                        <strong>October 2017-
+2022</strong>
+                    </td>
+                    <td>Working at farm
+since i was 8 years old i have been
+planting some vegetable,corn and rice in
+Quezon Province</td>
+                </tr>
+            </table>
+        </section>
+        <br>
+        <!-- education -->
+         <section>
+            <h2>education</h2>
+            <hr>
+            <table border="3px">
+                <tr>
+                    <td>
+                        <strong>2013-
+2014</strong>
+                        </td>
+                        <td>Graduate at Kindergarten With an 5 place Honor.</td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <strong>2014-
+2019</strong>
+                        </td>
+                        <td>Graduate at
+elementary with an 8 Place honor in a row 
+with a certificate.</td>
+                    </tr><tr>
+                        <td>
+                            <strong>2020-
+2023</strong>
+                        </td>
+                        <td>Graduate at
+highschool with an With best in worksample
+from Alternative Learning System
+in imus pilot elementary school.</td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <strong>2024-
+2025</strong>
+                        </td>
+                        <td>Still continuing
+to Senior High School.</td>
+                    </tr>
+                </table>
+            </section>
+            <br>
+            <!-- skills -->
+             <section>
+                <h2>skills</h2>
+                <hr>
+                <table cellspacing="20px">
+                    <tr>
+                        <td>
+                            <h3>hard 
+Skill</h3>
+                            <ul>
+                                <li>Making a
+ simple project using html and css</li>
+                            </ul>
+                        </td>
+                        <td>
+                            <h3>Soft 
+Skill</h3>
+                           <ul>
+                               <li>Making a 
+simple project using html</li>
+                        </ul>
+                    </td>
+                </tr>
+            </table>
+          </section>
+
+</body>
+</html>
